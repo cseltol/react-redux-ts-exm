@@ -1,4 +1,4 @@
-# react-redux-typescript-example
+# React, Redux, Typescript example
 
 > Demonstrating the common patterns when using React, Redux v4, and TypeScript.
 
